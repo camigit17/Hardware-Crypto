@@ -1,7 +1,7 @@
 # Hardware-Crypto
 ## TIPOS DE HARDWARE
 1. [Ledger](#Ledger)
-2. [Technologies](#technologies)
+2. [Trezos](#Trezos)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
